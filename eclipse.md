@@ -7,8 +7,8 @@ Eclipse フォルダ
 ワークスペースフォルダ
 : Eclipse で扱うソース一式が格納されているディレクトリ。
 
-| Eclipse フォルダ     | `C:\prj\pleiades`
-| ワークスペースフォルダ | `C:\prj\workspace`
+| Eclipse フォルダ     | `C:\prj\pleiades` |
+| ワークスペースフォルダ | `C:\prj\workspace` |
 
 
 ## Download
