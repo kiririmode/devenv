@@ -1,5 +1,16 @@
 # Eclipse
 
+## Definition
+Eclipse フォルダ
+: Eclipse のファイル一式を格納するディレクトリ。
+
+ワークスペースフォルダ
+: Eclipse で扱うソース一式が格納されているディレクトリ。
+
+| Eclipse フォルダ     | `C:\prj\pleiades`
+| ワークスペースフォルダ | `C:\prj\workspace`
+
+
 ## Download
 
 [MergeDoc Project](http://mergedoc.osdn.jp/) から、以下の version の zip ファイルをダウンロードする。
